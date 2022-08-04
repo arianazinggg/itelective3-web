@@ -20,7 +20,7 @@
 
 <h2>Use Case Diagram</h2>
 <p align="center">
-    <img src="https://media.cheggcdn.com/media/16c/16c6b755-ac2c-48b4-b369-d72fb58f9085/php1tBKe0" width="800" Height="600">
+    <img src="https://media.cheggcdn.com/media/16c/16c6b755-ac2c-48b4-b369-d72fb58f9085/php1tBKe0" width="800" Height="700">
 </p>
 
 <h2>Possible Subsystems</h2>
