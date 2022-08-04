@@ -8,9 +8,11 @@
 </p>
 
 <p> Frameworks used:</p>
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png">
-
-
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" width="130" height="50">
+<img src = "https://www.kindpng.com/picc/m/296-2968253_1460px-react-logo-react-native-logo-png-transparent.png" width="130" height="50">
+<img src = "https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="130" height="50">
+     
+     
 <h2>System Description</h2>
 <p>
   This Payroll Management System is to to assist the government in facilitating the complete payroll processing requirements of all government agencies.
