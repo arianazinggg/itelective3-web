@@ -1,26 +1,42 @@
-@import url(fontawesome-all.min.css);
-@import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400';
-
-/*
-	LGU of Cotabato City
-	cotabatocity.ph
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
-html, body, div, span, applet, object,
-iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
-pre, a, abbr, acronym, address, big, cite,
-code, del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var, b,
-u, i, center, dl, dt, dd, ol, ul, li, fieldset,
-form, label, legend, table, caption, tbody,
-tfoot, thead, tr, th, td, article, aside,
-canvas, details, embed, figure, figcaption,
-footer, header, hgroup, menu, nav, output, ruby,
-section, summary, time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;}
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewreport" content="width=device-width, initial-scale=1.0">
+	<title>
+		html css and bootstrap 4 simple landing page
+	</title>
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+	<link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet" />
+	<link rel="stylesheet" type="text/css" href="index.css" />
+</head>
+<body>
+	<div class="container-fluid banner">
+		<div class="row">
+			<div class="col-md-12">
+				<nav class="navbar navbar-md">
+					<div class="navbar-brand">Local Government Unit of Cotabato City</div>
+					<ul class="nav">
+						<li class="nav-item">
+							<a class="nav-link" href="#">HOME</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">ABOUT</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">CONTACT</a>
+						</li>
+					</ul>
+				</nav>
+			</div>
+			<div class="col-md-8 offset-md-2 info">
+				<h1 class="text-center">SPITAL</h1>
+				<p class="text-center">
+					Lorem ipsum dolor sit amet, consectetur adipisicing
+				</p>
+				<a href="#" class="btn btn-md text-center">GET STARTED</a>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
